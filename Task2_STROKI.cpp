@@ -1,3 +1,8 @@
+﻿#include <iostream>
+#include <string>
+#include <windows.h>
+using namespace std;
+
 // СТРОКИ
 
 int main() {
